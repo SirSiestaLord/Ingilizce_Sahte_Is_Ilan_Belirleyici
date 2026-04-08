@@ -46,5 +46,3 @@ Projeyi yerelinizde çalıştırmak için aşağıdaki adımları izleyebilirsin
 
 Bu çalışmada Kaggle üzerinde yer alan "Real / Fake Job Posting Prediction" veri seti kullanılmıştır:
 https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
-
------
