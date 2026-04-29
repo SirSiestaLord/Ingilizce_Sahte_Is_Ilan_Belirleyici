@@ -1,4 +1,4 @@
-# Hibrit Analiz ve Anomali Tespiti ile Sahte İş İlanlarının Belirlenmesi
+# Hibrit Analiz ve Anomali Tespiti ile Sahte İngilizce İş İlanlarının Belirlenmesi
 
 Bu proje, sahte iş ilanlarını tespit etmek için metin tabanlı Doğal Dil İşleme (NLP) yöntemlerini, istatistiksel anomali tespiti teknikleriyle birleştiren hibrit bir denetim mekanizması geliştirmeyi amaçlamaktadır. Sistemin temel hedefi, sadece içeriğe değil, aynı zamanda ilanların yapısal davranışlarına da bakarak güvenilirliği artırmaktır.
 
